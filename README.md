@@ -39,7 +39,7 @@
                 <img src="images/latency_throughput.svg">
             <h3>mutexとsemaphor</h3>
                 <img src="images/mutex_semaphore.svg">
-            <h3>probalisticとstochastic</h3>
+            <h3>probabilisticとstochastic</h3>
                 <img src="images/probabilistic_stochastic.svg">
             <h3>サンプル数とサンプルサイズ</h3>
                 <img src="images/nSamples_sample_size.svg">
