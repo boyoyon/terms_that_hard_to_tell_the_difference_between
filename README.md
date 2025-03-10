@@ -39,10 +39,17 @@
                 <img src="images/latency_throughput.svg">
             <h3>mutexとsemaphor</h3>
                 <img src="images/mutex_semaphore.svg">
-            <h3>probabilisticとstochastic</h3>
+            <h3>notice(気づく)とrealize(気づく)</h3>
+            　　<a href="https://toraiz.jp/english-times/book/5277">気づくの英語「notice」「realize」「recognize」の違いと使い分けを解説！</a><br>
+            　　によれば、こんな感じ。<br>
+                <img src="images/notice_realize.svg">
+            <h3>probalisticとstochastic</h3>
                 <img src="images/probabilistic_stochastic.svg">
             <h3>サンプル数とサンプルサイズ</h3>
                 <img src="images/nSamples_sample_size.svg">
+            <h3>securityとsafety</h3>
+                <img src="images/security_safety.svg">
+                <img src="images/security_related.svg">
         </p>
     </body>
 </html>
