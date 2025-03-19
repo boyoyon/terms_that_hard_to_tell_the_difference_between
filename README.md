@@ -48,7 +48,8 @@
             <h3>サンプル数とサンプルサイズ</h3>
                 <img src="images/nSamples_sample_size.svg">
             <h3>securityとsafety</h3>
-                <img src="images/security_safety.svg">
+                <img src="images/security_safety.svg"><br>
+                <img src="images/safety_related.svg"><br>
                 <img src="images/security_related.svg">
         </p>
     </body>
