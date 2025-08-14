@@ -19,6 +19,8 @@
                   <img src="images/concurrent_parallel.svg">
             <h3>連続(Continuity)と一様連続(Uniform Continuity)</h3>
             　　　<img src="images/Continuity_UniformContinuity.svg">
+            <h3>各点収束(Pointwise Convergence)と一様収束(Uniformly Convergence)</h3>
+　　　　　　　　　　<img src="images/Pointwise_UniformlyConvergence.svg">
             <h3>declaration(宣言)とdefinition(定義)</h3>
                 <img src="images/declaration_definition.svg">
  　　　　　　<h3>微分可能(differentiable)と正則(holomorphic)</h3>
