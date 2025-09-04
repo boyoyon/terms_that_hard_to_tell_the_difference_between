@@ -15,6 +15,8 @@
             ・<a href="https://xtech.nikkei.com/it/article/COLUMN/20060314/232407/">認証には2種類ある</a><br>
             　によれば<br>
                   <img src="images/authentication_certification.svg">
+            <h3>問題(issues, problems)と課題(challenges)</h3>
+                  <img src="images/issues_challenges.svg"><br>
             <h3>concurrent(並行実行)とparallel(並列実行)</h3>
                   <img src="images/concurrent_parallel.svg">
             <h3>連続(Continuity)と一様連続(Uniform Continuity)</h3>
