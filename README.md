@@ -34,7 +34,7 @@
         　　<h3>Distance と Metric</h3>
             <img src="images/distance_metric.svg">
             <h3>Embedding Spaces(埋め込み空間) と Latent Spaces (潜在空間)</h3>
-            <a href="">Latent Space versus Embedding Space</a>によれば<br>
+            <a href="https://training.continuumlabs.ai/disruption/search/latent-space-versus-embedding-space#:~:text=While%20embedding%20spaces%20can%20be,are%20latent%20space%20models%20used?">Latent Space versus Embedding Space</a>によれば<br>
             <img src="images/EmbeddingSpace_vs_LatentSpace.svg">
             <h3>Equivalence(等価性)とInvariance(不変性)</h3>
             <img src="images/equivalenceとinvariance.svg">
