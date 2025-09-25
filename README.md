@@ -33,6 +33,9 @@
                   <img src="images/disk_disc.svg">       
         　　<h3>Distance と Metric</h3>
             <img src="images/distance_metric.svg">
+            <h3>Embedding Spaces(埋め込み空間) と Latent Spaces (潜在空間)</h3>
+            <a href="">Latent Space versus Embedding Space</a>によれば<br>
+            <img src="images/EmbeddingSpace_vs_LatentSpace.svg">
             <h3>Equivalence(等価性)とInvariance(不変性)</h3>
             <img src="images/equivalenceとinvariance.svg">
             <h3>error(誤り)/fault(不整合)/failure(故障)/defect(障害)<br>
