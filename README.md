@@ -61,7 +61,7 @@
             　　<a href="https://toraiz.jp/english-times/book/5277">気づくの英語「notice」「realize」「recognize」の違いと使い分けを解説！</a><br>
             　　によれば、こんな感じ。<br>
                 <img src="images/notice_realize.svg">
-            <h3>probalisticとstochastic</h3>
+            <h3>probabilisticとstochastic</h3>
                 <img src="images/probabilistic_stochastic.svg">
             <h3>サンプル数とサンプルサイズ</h3>
                 <img src="images/nSamples_sample_size.svg">
