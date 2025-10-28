@@ -50,6 +50,8 @@
                 <img src="images/FIFO_queue.svg">
             <h3>heapとstack</h3>
                 <img src="images/heap_stack.svg">
+            <h3>inference(推測), predict(予測), reasoning(推論)</h3>
+                <img src="images/inference_predict_reasoning.svg">
             <h3>latency(レイテンシー, 潜伏期間)とthroughput(スループット)</h3>
                 <img src="images/latency_throughput.svg">
             <h3>mutexとsemaphor</h3>
