@@ -63,6 +63,8 @@
                 <img src="images/notice_realize.svg">
             <h3>probabilisticとstochastic</h3>
                 <img src="images/probabilistic_stochastic.svg">
+            <h3>search と retrieve(retrieval)</h3>
+                <img src="images/retrieve_search.svg">
             <h3>サンプル数とサンプルサイズ</h3>
                 <img src="images/nSamples_sample_size.svg">
             <h3>securityとsafety</h3>
