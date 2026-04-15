@@ -19,6 +19,9 @@
                   <img src="images/issues_challenges.svg"><br>
             <h3>concurrent(並行実行)とparallel(並列実行)</h3>
                   <img src="images/concurrent_parallel.svg">
+            <h3>Consistency (一貫性、整合性)</h3>
+            ・大規模言語モデル(LLM)の一貫性<br>
+                  <img src="images/consistency.svg"><br>
             <h3>連続(Continuity)と一様連続(Uniform Continuity)</h3>
             　　　<img src="images/Continuity_UniformContinuity.svg">
             <h3>各点収束(Pointwise Convergence)と一様収束(Uniformly Convergence)</h3>
@@ -63,6 +66,8 @@
                 <img src="images/notice_realize.svg">
             <h3>probabilisticとstochastic</h3>
                 <img src="images/probabilistic_stochastic.svg">
+            <h3>再現可能性(Reproducibility)と複製可能性(Replicability)</h3>
+                <img src="images/Reproducibility_Replicability.svg">
             <h3>search と retrieve(retrieval)</h3>
                 <img src="images/retrieve_search.svg">
             <h3>サンプル数とサンプルサイズ</h3>
