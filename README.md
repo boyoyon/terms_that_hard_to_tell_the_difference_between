@@ -66,6 +66,8 @@
         　　人間の知識や手作りのルールを組み込むよりも、計算機のパワー（汎用的な計算と学習）に任せる方が最終的に勝利する
             <h3>inference(推測), predict(予測), reasoning(推論)</h3>
                 <img src="images/inference_predict_reasoning.svg">
+        　　・reasoning(推論)：プロセス<br>
+        　　・inference(推測), predict(予測)：reasoning(推論)を使って実行するタスク、またはタスクの成果物
             <h3>latency(レイテンシー, 潜伏期間)とthroughput(スループット)</h3>
                 <img src="images/latency_throughput.svg">
             <h3>mutexとsemaphor</h3>
