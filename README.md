@@ -54,6 +54,15 @@
                 <img src="images/FIFO_queue.svg">
             <h3>heapとstack</h3>
                 <img src="images/heap_stack.svg">
+            <h3>事前知識(prior knowledge)と帰納バイアス(inductive bias)</h3>
+                <img src="images/prior_knowledge_inductive_bias.svg">
+        ・汎化するためには帰納バイアスが必要<br>
+        　『The need for biases in learning generalizations』(1980)<br>
+        　　新しい状況に対処するために必要な帰納的飛躍は、状況のある一般化を他の一般化よりも選択するための<br>
+        　　特定のバイアスがある場合にのみ可能となるように思われる<br>
+        ・でも持ち込む事前知識は少ない方が良い<br>
+        　『The Bitter Lesson』(2019)<br>
+        　　人間の知識や手作りのルールを組み込むよりも、計算機のパワー（汎用的な計算と学習）に任せる方が最終的に勝利する
             <h3>inference(推測), predict(予測), reasoning(推論)</h3>
                 <img src="images/inference_predict_reasoning.svg">
             <h3>latency(レイテンシー, 潜伏期間)とthroughput(スループット)</h3>
