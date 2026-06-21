@@ -56,6 +56,7 @@
                 <img src="images/heap_stack.svg">
             <h3>事前知識(prior knowledge)と帰納バイアス(inductive bias)</h3>
                 <img src="images/prior_knowledge_inductive_bias.svg">
+        ・式やアルゴリズムの形でモデルに組み込まれた事前知識は、実装された帰納バイアスでもあるので混乱する<br>
         ・汎化するためには帰納バイアスが必要<br>
         　『The need for biases in learning generalizations』(1980)<br>
         　　新しい状況に対処するために必要な帰納的飛躍は、状況のある一般化を他の一般化よりも選択するための<br>
