@@ -82,6 +82,8 @@
                 <img src="images/Reproducibility_Replicability.svg">
             <h3>search と retrieve(retrieval)</h3>
                 <img src="images/retrieve_search.svg">
+            <h3>集合(set)と空間(space)</h3>
+                <img src="images/set_space.svg">
             <h3>サンプル数とサンプルサイズ</h3>
                 <img src="images/nSamples_sample_size.svg">
             <h3>securityとsafety</h3>
