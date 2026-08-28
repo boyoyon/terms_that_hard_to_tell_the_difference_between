@@ -87,7 +87,7 @@
         　　・inference(推測), predict(予測)：reasoning(推論)を使って実行するタスク、またはタスクの成果物
             <h3>latency(レイテンシー, 潜伏期間)とthroughput(スループット)</h3>
                 <img src="images/latency_throughput.svg">
-            <h3>確率(probabilistic)と尤度(likelihood)</h3>
+            <h3>確率(probability)と尤度(likelihood)</h3>
             <img src="images/likelihood_probability.svg">
         　　・確率：横軸(定義域)は事象<br>
         　　・尤度：横軸(定義域)は予測モデル<br>
