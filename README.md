@@ -15,6 +15,8 @@
             ・<a href="https://xtech.nikkei.com/it/article/COLUMN/20060314/232407/">認証には2種類ある</a><br>
             　によれば<br>
                   <img src="images/authentication_certification.svg">
+            <h3>Bibliography（参考文献・書誌目録)とReferences（引用文献)</h3>
+            <img src="images/Bibliography_References.svg">
             <h3>ブロック(Block)とプリエンプト(Preempt)</h3>
             <img src="images/block_preempt.svg">
             優先度の低いタスクがファイル書き換え中に、優先度の高いタスクがファイルをリードしようと思ってもブロックされる。<br>
