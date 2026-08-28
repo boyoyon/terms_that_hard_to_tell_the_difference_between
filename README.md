@@ -71,6 +71,8 @@
                 <img src="images/fig2.svg">
             <h3>FIFOとqueue</h3>
                 <img src="images/FIFO_queue.svg">
+            <h3>preface と foreword</h3>
+                <img src="images/preface_foreword.svg">
             <h3>heapとstack</h3>
                 <img src="images/heap_stack.svg">
             <h3>事前知識(prior knowledge)と帰納バイアス(inductive bias)</h3>
