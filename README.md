@@ -15,6 +15,23 @@
             ・<a href="https://xtech.nikkei.com/it/article/COLUMN/20060314/232407/">認証には2種類ある</a><br>
             　によれば<br>
                   <img src="images/authentication_certification.svg">
+            <h3>ブロック(Block)とプリエンプト(Preempt)</h3>
+            <img src="images/block_preempt.svg">
+            優先度の低いタスクがファイル書き換え中に、優先度の高いタスクがファイルをリードしようと思ってもブロックされる。<br>
+            そうしないと、書き換え途中の中途半端なファイルがリードされてしまうから。<br>
+            ブロックとプリエンプトを区別しないと優先度逆転の理解が困難になる。<br>
+            (優先度逆転)
+            <img src="images/priority_inversion.png">
+            ・社長(タスクA)：新人君(タスクC)に資料のコピーを依頼<br>
+            ・新人君(タスクC)：コピーをしていたら先輩(タスクB)が「ちょっと急ぐので」と言ってきた<br>
+            ・先輩(タスクB)：コピーを実行<br>
+            ・社長(タスクA)：先輩(タスクB)にブロックされる<br>
+            <br>
+            (優先度継承)
+              <img src="images/priority_inheritance.png">
+            ・社長(タスクA)：新人君(タスクC)に資料のコピーを依頼<br>
+            ・新人君(タスクC)：コピーをしていたら先輩(タスクB)が「ちょっと急ぐので」と言ってきた<br>
+            　「社長に依頼されたコピーをしているので」と割り込みを断った<br>
             <h3>問題(issues, problems)と課題(challenges)</h3>
                   <img src="images/issues_challenges.svg"><br>
             <h3>concurrent(並行実行)とparallel(並列実行)</h3>
@@ -70,6 +87,11 @@
         　　・inference(推測), predict(予測)：reasoning(推論)を使って実行するタスク、またはタスクの成果物
             <h3>latency(レイテンシー, 潜伏期間)とthroughput(スループット)</h3>
                 <img src="images/latency_throughput.svg">
+            <h3>確率(probabilistic)と尤度(likelihood)</h3>
+            <img src="images/likelihood_probability.svg">
+        　　・確率：横軸(定義域)は事象<br>
+        　　・尤度：横軸(定義域)は予測モデル<br>
+            <img src="images/likelihood_probability2.svg">
             <h3>mutexとsemaphor</h3>
                 <img src="images/mutex_semaphore.svg">
             <h3>notice(気づく)とrealize(気づく)</h3>
