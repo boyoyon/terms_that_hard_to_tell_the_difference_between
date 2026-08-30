@@ -102,6 +102,8 @@
             　　<a href="https://toraiz.jp/english-times/book/5277">気づくの英語「notice」「realize」「recognize」の違いと使い分けを解説！</a><br>
             　　によれば、こんな感じ。<br>
                 <img src="images/notice_realize.svg">
+            <h3>Predictive Coding と Prospective Coding</h3>
+                <img src="images/predictive_coding_prospective_coding.svg">
             <h3>probabilisticとstochastic</h3>
                 <img src="images/probabilistic_stochastic.svg">
             <h3>再現可能性(Reproducibility)と複製可能性(Replicability)</h3>
