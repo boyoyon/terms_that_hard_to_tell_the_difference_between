@@ -69,7 +69,23 @@
                 <img src="images/fig1.svg"><br>
                 　模式的に書くと...<br>
                 <img src="images/fig2.svg">
-            <h3>FIFOとqueue</h3>
+             <h3>ErrorとRisk</h3>
+        (きっかけ) 学習データに対する予測誤差を何で Empirical Risk と言うんだろう？<br><br>
+                 <img src="images/error_risk.svg">
+        予報「晴れ」実際「雨」→ 傘を持たずに出て濡れる ＝ ダメージ大<br>
+        予報「雨」実際「晴れ」→ 無駄に傘を持って歩く ＝ ダメージ小<br>
+        <br>
+        <img src="images/empirical_population.svg">
+        (イメージ)<br>
+        ・Empirical：出口調査<br>
+        ・Population：開票結果<br>
+        選挙のように開票結果がわかることはあまりない。入手できるデータで予測を行うしかない。<br>
+        → 手元にあるデータ(学習データ)で実際に計測した予測誤差を Empirical Risk と言う<br>
+        　(Error の種類や影響は考慮していないので Risk ではなく Errorでいいような･･･)<br>
+        <br>
+        (Rinskが出たので、ついでに･･･)
+        <img src="images/hazard_risk.svg">
+             <h3>FIFOとqueue</h3>
                 <img src="images/FIFO_queue.svg">
             <h3>preface と foreword</h3>
                 <img src="images/preface_foreword.svg">
