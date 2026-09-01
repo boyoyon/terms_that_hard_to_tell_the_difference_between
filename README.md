@@ -83,7 +83,7 @@
         → 手元にあるデータ(学習データ)で実際に計測した予測誤差を Empirical Risk と言う<br>
         　(Error の種類や影響は考慮していないので Risk ではなく Errorでいいような･･･)<br>
         <br>
-        (Rinskが出たので、ついでに･･･)
+        (Riskが出たので、ついでに･･･)
         <img src="images/hazard_risk.svg">
              <h3>FIFOとqueue</h3>
                 <img src="images/FIFO_queue.svg">
