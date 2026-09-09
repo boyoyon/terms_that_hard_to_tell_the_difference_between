@@ -124,6 +124,8 @@
                 <img src="images/probabilistic_stochastic.svg">
             <h3>再現可能性(Reproducibility)と複製可能性(Replicability)</h3>
                 <img src="images/Reproducibility_Replicability.svg">
+            <h3>Reward と Return</h3>
+                <img src="images/reward_return.svg">
             <h3>search と retrieve(retrieval)</h3>
                 <img src="images/retrieve_search.svg">
             <h3>集合(set)と空間(space)</h3>
