@@ -7,6 +7,8 @@
         <h2>なにものか？</h2>
         <p>
             違いがわかりづらい用語を集めてみた。<br>
+            <h3>≦と≼</h3>
+            <img src="images/leq_preceq.svg">
             <h3>accuracy(正確さ)とprecision(精度)</h3>
             ・『リアルタイム/マルチタスクシステムの徹底研究』 藤倉俊幸<br>
             　によれば<br>
