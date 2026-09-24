@@ -130,6 +130,9 @@
                 <img src="images/reward_return.svg">
             <h3>search と retrieve(retrieval)</h3>
                 <img src="images/retrieve_search.svg">
+            <h3>Shift Invariance と Translation Equivariance</h3>
+                工学とAIで使い方が異なるようだったのでメモ<br>
+                <img src="images/shift_invariance.svg"> 
             <h3>集合(set)と空間(space)</h3>
                 <img src="images/set_space.svg">
             <h3>サンプル数とサンプルサイズ</h3>
