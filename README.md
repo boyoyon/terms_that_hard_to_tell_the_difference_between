@@ -38,6 +38,8 @@
             　「社長に依頼されたコピーをしているので」と割り込みを断った<br>
             <h3>問題(issues, problems)と課題(challenges)</h3>
                   <img src="images/issues_challenges.svg"><br>
+            <h3>Classification (分類) と Clustering (クラスタリング)</h3>
+            <img src="images/classification_clustering.svg"><br>
             <h3>concurrent(並行実行)とparallel(並列実行)</h3>
                   <img src="images/concurrent_parallel.svg">
             <h3>Consistency (一貫性、整合性)</h3>
