@@ -134,9 +134,9 @@
                 <img src="images/retrieve_search.svg">
             <h3>Syntax(構文・構造) と Semantics (意味)</h3>
                 <img src="images/syntax_semantics.svg"><br>
-                ・構造が似ているけど、目的がことなるもの<br>
-                ・目的が似ているけど、構造が異なるもの<br>
-                なども、Syntax・Semantics で類推できる
+　                ・構造が似ているけど、目的がことなるもの、なのか<br>
+                　・目的が似ているけど、構造が異なるもの、なのか<br>
+                  syntax・semantics で類推できる(ことがある)        
             <h3>Shift Invariance と Translation Equivariance</h3>
                 工学とAIで使い方が異なるようだったのでメモ<br>
                 <img src="images/shift_invariance.svg"> 
