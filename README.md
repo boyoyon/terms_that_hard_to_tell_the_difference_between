@@ -13,6 +13,8 @@
             ・『リアルタイム/マルチタスクシステムの徹底研究』 藤倉俊幸<br>
             　によれば<br>
                   <img src="images/accuracy_precision.svg">
+            <h3>Assumption(前提・仮定) と Hypothesis(仮説)</h3>
+            <img src="images/assumption_hypothesis.svg">
             <h3>authentication(認証)とcertification(認定)</h3>
             ・<a href="https://xtech.nikkei.com/it/article/COLUMN/20060314/232407/">認証には2種類ある</a><br>
             　によれば<br>
