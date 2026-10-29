@@ -132,7 +132,7 @@
                 <img src="images/Reproducibility_Replicability.svg">
             <h3>Reward と Return</h3>
                 <img src="images/reward_return.svg">
-        <strong>ReturnとValue</strong>strong><br>
+        <strong>ReturnとValue</strong><br>
         Returnは未来にならないと分からない上に、確率（運）で毎回ブレるため、AIが直接それを目指して行動を選ぶのは困難<br>
         Returnの平均期待値(=Value 価値)を代理指標とすることで、一喜一憂せずに安定して学習できるようになる(らしい･･･）。
             <h3>search と retrieve(retrieval)</h3>
