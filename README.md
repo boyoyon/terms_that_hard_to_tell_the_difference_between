@@ -126,6 +126,8 @@
         　　・確率：横軸(定義域)は事象<br>
         　　・尤度：横軸(定義域)は予測モデル<br>
             <img src="images/likelihood_probability2.svg">
+            ・事前確率が一様な場合：確率 = argmax(尤度)<br>
+            ・　　一様ではない場合：確率 ≠ argmax(尤度)
             <h3>mutexとsemaphor</h3>
                 <img src="images/mutex_semaphore.svg">
             <h3>notice(気づく)とrealize(気づく)</h3>
