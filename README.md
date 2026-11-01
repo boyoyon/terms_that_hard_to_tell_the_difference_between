@@ -13,6 +13,14 @@
             ・『リアルタイム/マルチタスクシステムの徹底研究』 藤倉俊幸<br>
             　によれば<br>
                   <img src="images/accuracy_precision.svg">
+            <h3>Assess(評価する) と Evaluate(評価する)</h3>
+            <img src="images/assess_evaluate.svg">
+            どの段階で意思決定プロセスを実行するかが異なる。<br>
+            (イメージ)<br>
+            ・assess：「健康診断」<br>
+            　今の体の状態やリスクを「見極める」段階。合格/不合格を決める訳ではない。<br>
+            ・evaluate：「入試の採点」<br>
+            　明確な合格基準に照らし合わせて、「基準に達しているか」を最終判断
             <h3>Assumption(前提・仮定) と Hypothesis(仮説)</h3>
             <img src="images/assumption_hypothesis.svg">
             <h3>authentication(認証)とcertification(認定)</h3>
