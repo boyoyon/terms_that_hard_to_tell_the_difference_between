@@ -103,6 +103,9 @@
                 <img src="images/FIFO_queue.svg">
             <h3>preface と foreword</h3>
                 <img src="images/preface_foreword.svg">
+            <h3>ゲーム理論と強化学習</h3>
+                <img src="images/game_theory_reinforcemet_learning.svg">
+            　・どちらも「意思決定の最適化」を扱う
             <h3>heapとstack</h3>
                 <img src="images/heap_stack.svg">
             <h3>事前知識(prior knowledge)と帰納バイアス(inductive bias)</h3>
