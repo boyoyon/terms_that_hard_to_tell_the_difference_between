@@ -128,8 +128,9 @@
             <img src="images/likelihood_probability2.svg">
             ・事前確率が一様な場合：確率 = argmax(尤度)<br>
             ・　　一様ではない場合：確率 ≠ argmax(尤度)<br>
-            　事前確率が一様ではない → コイントスを途中まで実施して続きを行うようなもの<br>
-              　　→ 事前確率なしの場合と表、裏の回数が変わる
+            　事前確率 → コイントスを途中まで実施して続きを行うようなもの<br>
+              　　→ 一様：表、裏の回数が同じ、一様ではない：表・裏の回数が異なる<br>
+            　　　ところから始めることに相当する
             <h3>mutexとsemaphor</h3>
                 <img src="images/mutex_semaphore.svg">
             <h3>notice(気づく)とrealize(気づく)</h3>
