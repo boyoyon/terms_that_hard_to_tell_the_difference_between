@@ -135,7 +135,8 @@
               　　→ 一様：表、裏の回数が 0、一様ではない：表・裏の回数が 0 ではない<br>
             　　　ところから始めることに相当する<br>
             ・ベータ分布の活用例<br>
-            　70年間埋もれていたアルゴリズム：<a href="https://boyoyon.github.io/Algorithms_and_Codes/data/task_multi_armed_bandit_problem/multi_armed_bandit_problem.html#ThompsonSampling">Thompson Sampling</a>
+            　70年間埋もれていたアルゴリズム：<a href="https://boyoyon.github.io/Algorithms_and_Codes/data/task_multi_armed_bandit_problem/multi_armed_bandit_problem.html#ThompsonSampling">Thompson Sampling</a><br><br>
+            <img src="images/interpretations_of_probability.svg">
             <h3>mutexとsemaphor</h3>
                 <img src="images/mutex_semaphore.svg">
             <h3>notice(気づく)とrealize(気づく)</h3>
